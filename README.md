@@ -16,3 +16,4 @@ Supply-chains, design patterns, book lists, etc
 ## Machine control fundamentals. 
 
 - [GRBL's motion planner](https://github.com/grbl/grbl/blob/master/grbl/planner.c). This is not only the source code of GRBL, but the document is also a piece of art and really well written. Read it study it if you are interested in motion planning.
+- [GT2 Timing Belt Stiffnesss](https://www.mdpi.com/2218-6581/7/4/75/htm)
