@@ -11,6 +11,7 @@ Supply-chains, design patterns, book lists, etc
 - [Boneham](https://www.boneham.co.uk/drill-bushes/), UK. Jig and fixture components. 
 - [Westfield Fasteners](). UK. Great for machine screws and fasteners.
 - [Accu](https://www.accu.co.uk/en/), UK. Takk Magnus! Lot's of hardware. 
+- [Kugellager Express](https://www.kugellager-express.de/) DE, great online bearing shop
 
 ## Machine control fundamentals. 
 
